@@ -1,5 +1,5 @@
 {
-  "name": "vue3-socket.io",
+  "name": "vue-three-socket.io",
   "author": "Metin Seylan <metinsyln@gmail.com>",
   "version": "3.0.10",
   "description": "socket.io implementation for Vue.js and Vuex",
